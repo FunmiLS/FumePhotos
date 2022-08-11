@@ -1,0 +1,29 @@
+html, body {
+    height: 100%;
+    background-color:#eeeeeeff
+}
+
+.nav-img {
+    flex: 0 0 160px;
+}
+
+.nav-img img {
+    width: 370px;
+}
+
+.nav-contents {
+    flex: 1 1 130px
+}
+
+
+@media (max-width: 576px) {
+    .nav-img {
+        flex: 1;
+    }
+
+    .nav-img img {
+        min-width: 200px;
+        width: 100%;
+}
+}
+
