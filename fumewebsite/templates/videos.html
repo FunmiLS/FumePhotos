@@ -1,5 +1,45 @@
 {% extends "base.html" %}
-{% block title %}Videos{% endblock %}
+{% block title %}VIDEOS - Fume Gallery{% endblock %}
+{% block content %}
+<div class="container">
+  <br>
+  <br>
+  <div
+    class = "font-italic text-uppercase font-weight-bold" style="color : black;">
+    <h2>Videos</h2>
 
+    </div>
+
+    <div
+    class = "font-italic" style="color : black;">
+    <p>A short series of video clips </p>
+    </div>
+  <br>
+  <br>
+
+
+  <div class="row">
+    <div class="col-md-4">
+      <div class="thumbnail font-italic" style="color : black;">
+            <video width="320" height="240" controls>
+                <source src="/static/videos/lanz.mp4" type="video/mp4">
+
+                Your browser does not support the video tag.
+            </video>
+            <b>Lanzarote</b>
+          <p>Timanfaya National Park</p>
+          </div>
+        </a>
+      </div>
+    </div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+{% endblock %}
 
 

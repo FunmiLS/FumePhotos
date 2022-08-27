@@ -1,0 +1,27 @@
+COLOURS
+
+main_text = #1200ff
+background = #f9f6f4ff
+minor_text = black
+footer_text = white
+
+font = arial
+
+TEXT
+
+Titles:
+Italics
+Uppercase
+Bold
+Colour = minor_text
+
+Descriptive Text:
+Sentence case
+Colour = minor_text
+
+Navigation Bar:
+Colour = main_text
+Uppercase
+Bold
+Italics
+

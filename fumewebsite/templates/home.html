@@ -1,3 +1,51 @@
 {% extends "base.html" %}
-{% block title %}Home{% endblock %}
+{% block title %}Fume Gallery{% endblock %}
+{% block content %}
+    <style>
+        body {
+            animation: fadeInAnimation ease 3s;
+            animation-iteration-count: 1;
+            animation-fill-mode: forwards;
+        }
+        @keyframes fadeInAnimation {
+            0% {
+                opacity: 0;
+            }
+            100% {
+                opacity: 1;
+            }
+        }
+    </style>
+
+<br>
+<div class="row">
+    <div class="col-md-2">
+    </div>
+    <div class="col-md-8" style = "color : black" align="center">
+        <h6>Welcome to Fume Gallery. A place to explore photography shot by me. I would
+        like to give my special thanks to all the models for their contribution to this artwork.</h6>
+    </div>
+    <div class="col-md-2">
+    </div>
+
+</div>
+
+<div class="row">
+    <div class="col-md-2">
+    </div>
+    <div class="col-md-4">
+        <img src="static/images/bunny.gif" alt="bunny" width="1000">
+    </div>
+    <div class="col-md-4">
+    </div>
+
+</div>
+<br>
+<br>
+<br>
+
+
+
+
+{% endblock %}
 
