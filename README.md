@@ -1,5 +1,5 @@
 # Personal Photography Portfolio Website
-Website developed using Python, HTML and CSS
+Flask application developed using Python, HTML and CSS
 
 ## Screenshots:
 
