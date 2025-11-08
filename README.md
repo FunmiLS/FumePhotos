@@ -2,17 +2,9 @@
 
 ## 📸 Personal Photography Portfolio Website
 
-**FumePhotos** is a sleek, personal photography portfolio website built as a web application using the Flask framework in Python. It is designed to beautifully showcase a photographer's work with an emphasis on clean design and easy navigation.
+**FumePhotos** is a  personal photography portfolio website built as a web application using the Flask framework in Python. It is designed to showcase my photography work.
 
-This repository hosts the source code for the portfolio application, making it easy to deploy and customize.
-
-## ✨ Features
-
-* **Responsive Design:** Looks great on desktops, tablets, and mobile devices.
-* **Modular Flask Application:** Built with Python and Flask for a robust and maintainable backend.
-* **Dedicated Portfolio Sections:** Structure for showcasing different categories of photography.
-* **Contact Form Integration (Assumed):** A dedicated section for clients or collaborators to get in touch.
-* **Clean & Modern UI:** Designed using custom HTML and CSS to focus on the photography.
+This repository hosts the source code for the portfolio application.
 
 ## 💻 Technologies Used
 
@@ -24,8 +16,6 @@ This repository hosts the source code for the portfolio application, making it e
 | **CSS3** | Styling and presentation of the portfolio layout. |
 
 ## 🖼️ Screenshots
-
-## Screenshots:
 
 ![screenshot_2](https://user-images.githubusercontent.com/111074004/230362967-87d3377a-d3ff-464a-9ab1-cf9c196dc792.png)
 
